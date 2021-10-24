@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 import db.DB;
 
-public class App2 {
+public class App2Select {
 
 	public static void main(String[] args) {
 		

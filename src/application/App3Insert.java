@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 
 import db.DB;
 
-public class App3 {
+public class App3Insert {
 
 	public static void main(String[] args) {
 

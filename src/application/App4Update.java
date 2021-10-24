@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 import db.DB;
 
-public class App4 {
+public class App4Update {
 
 	public static void main(String[] args) {
 		
